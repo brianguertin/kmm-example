@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1EE2C541-0B7E-42E5-A16B-480922E813E8</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1EE2C541-0B7E-42E5-A16B-480922E813E8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>iosApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>iosApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project iosApp with scheme iosApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>660513611.01845896</real>
+			<key>timeStoppedRecording</key>
+			<real>660513636.64878094</real>
+			<key>title</key>
+			<string>Building project iosApp with scheme iosApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1EE2C541-0B7E-42E5-A16B-480922E813E8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

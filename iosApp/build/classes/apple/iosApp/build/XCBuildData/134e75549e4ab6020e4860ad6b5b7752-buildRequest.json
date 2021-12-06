@@ -1,0 +1,62 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "85a68d291c4e05d0b95823e57d90d843e78efbbbdcf8e374f5c55cffb2c69b39"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "i386",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/brian/Work/MyApp/iosApp/build/classes/apple/iosApp/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/brian/Work/MyApp/iosApp/build/classes/apple/iosApp/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/brian/Work/MyApp/iosApp/build/classes/apple/iosApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/brian/Work/MyApp/iosApp/build/classes/apple/iosApp/DerivedData/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/brian/Work/MyApp/iosApp/build/classes/apple/iosApp/DerivedData/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/brian/Work/MyApp/iosApp/build/classes/apple/iosApp/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "ARCHS" : "x86_64",
+          "OBJROOT" : "../../../classes/apple/iosApp/build",
+          "SDKROOT" : "iphonesimulator14.5",
+          "SYMROOT" : "../../../bin/iosApp"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "dvtdevice-DVTiOSDeviceSimulatorPlaceholder-iphonesimulator:placeholder",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
